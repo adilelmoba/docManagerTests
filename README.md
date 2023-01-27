@@ -3,6 +3,7 @@ Bareme:
 - Est-ce que le code est necessaire ?
 - Coherence
 
+
 Usecases:
 - Voir la liste de nos documents
 - Rajouter un document
@@ -12,7 +13,7 @@ Usecases:
 - Dupliquer un document
 - Renommer un document
 - Trier les documents
-gestion d'erreurs
+- Error handling 
 
 Members:
 - Pierre-Antoine BAIZEAU
