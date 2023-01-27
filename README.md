@@ -16,7 +16,7 @@ gestion d'erreurs
 
 Members:
 - Pierre-Antoine BAIZEAU
-- Adil EL MOBACHI
+- Adil EL MOBACHI\
 M4 - iWM - Groupe B
 
 Commands:
